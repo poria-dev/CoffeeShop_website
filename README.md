@@ -2,17 +2,20 @@
   ☕ CoffeeShop Website
 </h1>
 
+
 <p align="center">
   <a href="https://poria-dev.github.io/CoffeeShop_website/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_VISIT_LIVE_DEMO_CLICK_HERE-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" width="400" alt="Live Demo"/>
   </a>
 </p>
 
+
 <p align="center">
   <b>A visually rich coffee shop landing page built from scratch with pure HTML & CSS.</b>
 </p>
 
 <hr>
+
 
 
 <h2 align="center">📸 Project Screenshots</h2>
@@ -23,6 +26,7 @@
   <img src="shat/shat2.png" alt="CoffeeShop Details 1" width="49%" style="border-radius: 8px;"/>
   <img src="shat/shat3.png" alt="CoffeeShop Details 2" width="49%" style="border-radius: 8px;"/>
 </p>
+
 
 <hr>
 
@@ -78,6 +82,8 @@
 
 <hr>
 
+
+
 <h2 align="center">📞 Connect With Us</h2>
 
 <h3 align="center">Poria</h3>
@@ -94,6 +100,7 @@
 </p>
 
 
+
 <h3 align="center">Zahra</h3>
 <p align="center">
   <a href="https://github.com/Zahrakh-dev">
@@ -102,6 +109,8 @@
 </p>
 
 <br>
+
+
 <p align="center">
   <b>⭐ If you liked this project, show some love and give it a star!</b>
 </p>
